@@ -97,6 +97,11 @@ To keep your local database in sync with the latest changes:
 
 
 
+
+
+
+
+
 ## Contributing to Frontend Development
 
 If you are a frontend developer contributing to this Laravel project, here are some guidelines to help you get started with the frontend aspects.
