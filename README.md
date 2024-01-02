@@ -8,7 +8,7 @@ Welcome to the Fortrigge repository! This is a Property Management System.
 
 Before you begin, ensure you have the following installed on your machine:
 
-- [PHP](https://www.php.net/downloads.php) (>= 7.4)
+- [PHP](https://www.php.net/downloads.php) (>= 8.1)
 - [Composer](https://getcomposer.org/download/)
 - [Node.js](https://nodejs.org/) (>= 14.x)
 - [NPM](https://www.npmjs.com/get-npm) or [Yarn](https://yarnpkg.com/getting-started/install)
